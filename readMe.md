@@ -3,6 +3,7 @@
 ## Project Overview  
 This project involves the analysis of **online sales data** using two datasets: `details.csv` and `orders.csv`. The objective was to create an interactive and customizable dashboard that empowers users to explore and derive actionable insights into sales performance.  
 
+![dashboard](Dash.png)
 ## Features and Achievements  
 
 1. **Interactive Dashboard**:  
